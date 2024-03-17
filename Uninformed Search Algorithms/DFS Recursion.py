@@ -6,14 +6,15 @@ graph = {
   4 : [8],
   8 : []
 }
+
 visited = set()
-def dfs(visited, graph, node):
+def dfs(node):
     if node not in visited:
-        print (node)
+        print(node)
         visited.add(node)
         for child in graph.get(node, []):
-            dfs(visited, graph, child)
+            dfs(child)
 
 # Driver Code
 print("Following is the Depth-First Search")
-dfs(visited, graph, 5)
+dfs(5)
