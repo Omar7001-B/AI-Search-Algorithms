@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Created Folder for Informed/UnInformed, Testing" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Uninformed Search Algorithms/Breadth-first Search/BFS.py">
+      <change beforePath="$PROJECT_DIR$/.idea/AI Search Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI Search Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/Depth-first Search/DFS Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/Depth-first Search/DFS Recursion.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,12 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Omar7001-B"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Omar7001-B&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -33,6 +38,9 @@
         <option name="url" value="https://github.com/Omar7001-B/AI-Search-Algorithms.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,14 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Breadth-first Search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Breadth-first Search.executor": "Run",
+    "Python.DFS Recursion.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +100,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710714202729</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DFS Recursion">
+      <option name="closed" value="true" />
+      <created>1710715083822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715083822</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DFS Recursion">
+      <option name="closed" value="true" />
+      <created>1710715217336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715217336</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BFS">
+      <option name="closed" value="true" />
+      <created>1710715299309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715299309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Uninformed Search Algorithms/Breadth-first Search/BFS.py">
+      <option name="closed" value="true" />
+      <created>1710715378431</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710715378431</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +150,9 @@
     <MESSAGE value="Created folder for Informed/Uninformed" />
     <MESSAGE value="Testing" />
     <MESSAGE value="Created Folder for Informed/UnInformed, Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Folder for Informed/UnInformed, Testing" />
+    <MESSAGE value="DFS Recursion" />
+    <MESSAGE value="BFS" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Uninformed Search Algorithms/Breadth-first Search/BFS.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Uninformed Search Algorithms/Breadth-first Search/BFS.py" />
   </component>
 </project>
