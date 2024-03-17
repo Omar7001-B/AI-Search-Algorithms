@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Removed Some Directories">
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" afterDir="false" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Fixed DFS Using stack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BFS.executor": "Run",
     "Python.Breadth-first Search.executor": "Run",
     "Python.DFS Recursion.executor": "Run",
     "Python.DFS Stack.executor": "Run",
@@ -154,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710716222668</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed DFS Using stack">
+      <option name="closed" value="true" />
+      <created>1710717004150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710717004150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +186,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Uninformed Search Algorithms/Breadth-first Search/BFS.py" />
     <MESSAGE value="Some Improvements to the Recursion DFS" />
     <MESSAGE value="Removed Some Directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Some Directories" />
+    <MESSAGE value="Fixed DFS Using stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed DFS Using stack" />
   </component>
 </project>

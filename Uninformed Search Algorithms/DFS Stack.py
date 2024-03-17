@@ -6,6 +6,7 @@ graph = {
     4 : [8],
     8 : []
 }
+
 visited = set()
 def dfs(start):
     stack = [start]
@@ -14,8 +15,7 @@ def dfs(start):
         if node not in visited:
             print(node)
             visited.add(node)
-            for child in reversed(graph[node]): # Reversed to make it go left branches
-                stack.append(child)
+            stack.extend(reversed(graph.get(node, [])))
 
 print("Following is the Depth-First Search")
 dfs(5)
