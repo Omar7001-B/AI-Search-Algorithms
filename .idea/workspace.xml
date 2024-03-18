@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Added BFS/DFS for Searching the path">
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/UCS/UCS.py" afterDir="false" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Updated The names of the files">
+      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/Dijkstra/Dijkstra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Search Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Search Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS Path Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS Traversal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
     "Python.DFS Path.executor": "Run",
     "Python.DFS Recursion.executor": "Run",
     "Python.DFS Stack.executor": "Run",
+    "Python.Dijkstra.executor": "Run",
     "Python.UCS.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710791894640</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated The names of the files">
+      <option name="closed" value="true" />
+      <created>1710802030025</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710802030025</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +250,7 @@
     <MESSAGE value="Alernative way of printing the bfs/dfs" />
     <MESSAGE value="BFS Path By Me.." />
     <MESSAGE value="Added BFS/DFS for Searching the path" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added BFS/DFS for Searching the path" />
+    <MESSAGE value="Updated The names of the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated The names of the files" />
   </component>
 </project>
