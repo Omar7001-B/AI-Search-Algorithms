@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Added BFS/DFS for Searching the path">
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS Path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/UCS/UCS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS Path.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Search Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Path Search Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
     "Python.DFS Path.executor": "Run",
     "Python.DFS Recursion.executor": "Run",
     "Python.DFS Stack.executor": "Run",
+    "Python.UCS.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -75,6 +72,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Omar\PycharmProjects\AI Search Algorithms\Uninformed Search Algorithms\BFS" />
+      <recent name="C:\Users\Omar\PycharmProjects\AI Search Algorithms\Uninformed Search Algorithms\DFS" />
       <recent name="C:\Users\Omar\PycharmProjects\AI Search Algorithms\Uninformed Search Algorithms" />
     </key>
   </component>
@@ -206,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710791681508</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added BFS/DFS for Searching the path">
+      <option name="closed" value="true" />
+      <created>1710791894640</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710791894640</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
