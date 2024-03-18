@@ -7,15 +7,16 @@ graph = {
     8 : []
 }
 
-visited = set()
+visited = []
 def dfs(start):
     stack = [start]
     while stack:
         node = stack.pop()
         if node not in visited:
             print(node)
-            visited.add(node)
+            visited.append(node)
             stack.extend(reversed(graph.get(node, [])))
+    print(visited)
 
 print("Following is the Depth-First Search")
 dfs(5)

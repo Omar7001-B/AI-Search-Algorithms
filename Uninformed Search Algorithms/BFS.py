@@ -7,15 +7,17 @@ graph = {
   8 : []
 }
 
-visited = set()
+visited = []
 def bfs(start):
     queue = [start]
     while queue:
         node = queue.pop(0)
         if node not in visited:
-            print(node)
-            visited.add(node)
+            print(node) # Note You Can Just Print The Visited List
+            visited.append(node)
             queue.extend(graph.get(node, []))
+
+    print(visited)
 
 print("Following is the Breadth-First Search")
 bfs(5)

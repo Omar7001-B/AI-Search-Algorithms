@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Fixed DFS Using stack">
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Optimized iterative dfs/bfs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BFS.executor": "Run",
-    "Python.Breadth-first Search.executor": "Run",
-    "Python.DFS Recursion.executor": "Run",
-    "Python.DFS Stack.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Breadth-first Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DFS Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DFS Stack.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Omar\PycharmProjects\AI Search Algorithms\Uninformed Search Algorithms" />
@@ -163,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710717004150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Optimized iterative dfs/bfs">
+      <option name="closed" value="true" />
+      <created>1710717924786</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710717924786</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +193,7 @@
     <MESSAGE value="Some Improvements to the Recursion DFS" />
     <MESSAGE value="Removed Some Directories" />
     <MESSAGE value="Fixed DFS Using stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed DFS Using stack" />
+    <MESSAGE value="Optimized iterative dfs/bfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimized iterative dfs/bfs" />
   </component>
 </project>
