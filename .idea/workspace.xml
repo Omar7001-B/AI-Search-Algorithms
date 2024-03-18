@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Alernative way of printing the bfs/dfs">
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS Path.py" afterDir="false" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="BFS Path By Me..">
+      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Path.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     "Python.BFS Path.executor": "Run",
     "Python.BFS.executor": "Run",
     "Python.Breadth-first Search.executor": "Run",
+    "Python.DFS Path.executor": "Debug",
     "Python.DFS Recursion.executor": "Run",
     "Python.DFS Stack.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -184,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710776875576</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="BFS Path By Me..">
+      <option name="closed" value="true" />
+      <created>1710778110884</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710778110884</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +217,18 @@
     <MESSAGE value="Fixed DFS Using stack" />
     <MESSAGE value="Optimized iterative dfs/bfs" />
     <MESSAGE value="Alernative way of printing the bfs/dfs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alernative way of printing the bfs/dfs" />
+    <MESSAGE value="BFS Path By Me.." />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS Path By Me.." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Uninformed Search Algorithms/DFS Path.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
