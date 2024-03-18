@@ -7,8 +7,8 @@ graph = {
   8 : []
 }
 
-visited = []
 def bfs(start):
+    visited = []
     queue = [start]
     while queue:
         node = queue.pop(0)

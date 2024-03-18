@@ -7,8 +7,8 @@ graph = {
     8 : []
 }
 
-visited = []
 def dfs(start):
+    visited = []
     stack = [start]
     while stack:
         node = stack.pop()

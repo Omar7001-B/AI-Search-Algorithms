@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Optimized iterative dfs/bfs">
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Alernative way of printing the bfs/dfs">
+      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS Path.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -49,17 +55,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BFS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Breadth-first Search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DFS Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DFS Stack.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BFS Path.executor": "Run",
+    "Python.BFS.executor": "Run",
+    "Python.Breadth-first Search.executor": "Run",
+    "Python.DFS Recursion.executor": "Run",
+    "Python.DFS Stack.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Omar\PycharmProjects\AI Search Algorithms\Uninformed Search Algorithms" />
@@ -169,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710717924786</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Alernative way of printing the bfs/dfs">
+      <option name="closed" value="true" />
+      <created>1710776875576</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710776875576</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +209,7 @@
     <MESSAGE value="Removed Some Directories" />
     <MESSAGE value="Fixed DFS Using stack" />
     <MESSAGE value="Optimized iterative dfs/bfs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimized iterative dfs/bfs" />
+    <MESSAGE value="Alernative way of printing the bfs/dfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alernative way of printing the bfs/dfs" />
   </component>
 </project>
