@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Added Dijkstra">
-      <change afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DLS/DLS.py" afterDir="false" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Added IDDFS using recursion">
+      <change afterPath="$PROJECT_DIR$/Informed Search Algorithms/A Star/A Star.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Traversal  Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uninformed Search Algorithms/DFS/DFS Traversal Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.A Star.executor": "Run",
     "Python.BFS Path.executor": "Run",
     "Python.BFS.executor": "Run",
     "Python.Breadth-first Search.executor": "Run",
@@ -63,8 +63,11 @@
     "Python.DFS Path.executor": "Run",
     "Python.DFS Recursion.executor": "Run",
     "Python.DFS Stack.executor": "Run",
+    "Python.DLS Path Recursion.executor": "Run",
+    "Python.DLS Path Stack.executor": "Run",
     "Python.DLS.executor": "Run",
     "Python.Dijkstra.executor": "Run",
+    "Python.IDDFS.executor": "Run",
     "Python.UCS.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -260,6 +263,11 @@
     <MESSAGE value="Added BFS/DFS for Searching the path" />
     <MESSAGE value="Updated The names of the files" />
     <MESSAGE value="Added Dijkstra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dijkstra" />
+    <MESSAGE value="Added Depth-limited Search" />
+    <MESSAGE value="Iterative deepening depth-first search" />
+    <MESSAGE value="Added DLS using recursion" />
+    <MESSAGE value="Added DLS using Stack" />
+    <MESSAGE value="Added IDDFS using recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added IDDFS using recursion" />
   </component>
 </project>
