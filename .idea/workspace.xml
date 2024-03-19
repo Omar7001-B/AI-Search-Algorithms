@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Added IDDFS using recursion">
-      <change afterPath="$PROJECT_DIR$/Informed Search Algorithms/A Star/A Star.py" afterDir="false" />
+    <list default="true" id="b70041b5-515e-4cb5-bac9-9651e6493f32" name="Changes" comment="Greedy Search">
+      <change afterPath="$PROJECT_DIR$/Games/8 Puzzle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games/Testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.8 Puzzle.executor": "Run",
     "Python.A Star.executor": "Run",
     "Python.BFS Path.executor": "Run",
     "Python.BFS.executor": "Run",
@@ -67,11 +69,14 @@
     "Python.DLS Path Stack.executor": "Run",
     "Python.DLS.executor": "Run",
     "Python.Dijkstra.executor": "Run",
+    "Python.Greedy Search.executor": "Run",
     "Python.IDDFS.executor": "Run",
+    "Python.Testing.executor": "Run",
     "Python.UCS.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -268,6 +273,8 @@
     <MESSAGE value="Added DLS using recursion" />
     <MESSAGE value="Added DLS using Stack" />
     <MESSAGE value="Added IDDFS using recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added IDDFS using recursion" />
+    <MESSAGE value="A Star" />
+    <MESSAGE value="Greedy Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy Search" />
   </component>
 </project>
